@@ -116,5 +116,5 @@ Computer Engineering
 
 
 
-Tokat Gaziosmanpaşa University / Politechnica Bydgoska
+Tokat Gaziosmanpaşa University / Politechnika Bydgoska
 
