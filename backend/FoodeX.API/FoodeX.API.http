@@ -1,0 +1,6 @@
+@FoodeX.API_HostAddress = http://localhost:5115
+
+GET {{FoodeX.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
